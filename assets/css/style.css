@@ -1,0 +1,46 @@
+    /*<style type="text/css">*/
+.jumbotron {
+        background: #4d78a0;
+    }
+    
+    #h1 {
+        color: #F2F2F7;
+        font-size: 35pt;
+        font-family: 'Futura';
+    }
+    
+    #h2 {
+        color: #9F9FC9;
+        font-family: 'Futura';
+    }
+    
+    #heading1 {
+        background: #4d78a0;
+        font-family: 'Futura';
+    }
+    
+    #decription {
+        text-align: center;
+        font-size: 18pt;
+        color: #2A719F;
+        font-family: 'Futura';
+        padding: 35px 10px 35px 10px;
+    }
+}
+#panel-color {
+    background: #F2F2F7;
+}
+.panelpanel-default {
+    color: #4d78a0;
+}
+.panel-title {
+    color: white;
+}
+#submit {
+    background: #4d78a0;
+    color: white;
+}
+body {
+    background: #B7B7B7;
+}
+    /*</style>*/
